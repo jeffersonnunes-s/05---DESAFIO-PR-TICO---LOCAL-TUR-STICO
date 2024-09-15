@@ -155,3 +155,44 @@ ul li::before{
   margin-left: 40px;
 }
 
+#ul3{
+  color: #591b98;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 25px;
+  letter-spacing: 0.8;
+}
+
+#ul4{
+  color: #e5245e;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 25px;
+  letter-spacing: 0.8;
+}
+
+#ul5{
+  color: #e95e10;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 25px;
+  letter-spacing: 0.8;
+  margin-bottom: 40px;
+}
+
+hr#second{
+  width: 1120px;
+  height: 0.2px;
+  background-color: #d9d9d9;
+  border: none;
+  margin-bottom: 40px;
+}
+
+#pfinal{
+  color: #333333;
+  text-align: center;
+  margin-bottom: 65px;
+}
+
+
+  
